@@ -3,231 +3,231 @@
         "id": "1",
         "imageSrc": "https://i.imgur.com/dvWDcKB.png",
         "name": "DXN Gano Tea",
-        "oldPrice": "₹450",
+        "oldPrice": 45000,
         "price": 40000
     },
     {
         "id": "2",
         "imageSrc": "https://i.imgur.com/CbPPe9W.png",
         "name": "Lingzhi Coffee 2 in 1",
-        "oldPrice": "₹840",
-        "price": "₹750"
+        "oldPrice": 84000,
+        "price": 75000
     },
     {
         "id": "3",
         "imageSrc": "https://i.imgur.com/erktV2g.png",
         "name": "Lingzhi Coffee 3 in 1",
-        "oldPrice": "₹910",
-        "price": "₹820"
+        "oldPrice": 91000,
+        "price": 82000
     },
     {
         "id": "4",
         "imageSrc": "https://i.imgur.com/MVILmhS.png",
         "name": "DXN Cocozhi",
-        "oldPrice": "₹890",
-        "price": "₹780"
+        "oldPrice": 89000,
+        "price": 78000
     },
     {
         "id": "5",
         "imageSrc": "https://i.imgur.com/SQpoxPy.png",
         "name": "DXN Extra Virgin Coconut Oil",
-        "oldPrice": "₹925",
-        "price": "₹850"
+        "oldPrice": 92500,
+        "price": 85000
     },
     {
         "id": "6",
         "imageSrc": "https://i.imgur.com/Lz1hPHR.png",
         "name": "DXN Aloe V Face Wash",
-        "oldPrice": "₹375",
-        "price": "₹350"
+        "oldPrice": 37500,
+        "price": 35000
     },
     {
         "id": "7",
         "imageSrc": "https://i.imgur.com/32M92fv.png",
         "name": "DXN Soap",
-        "oldPrice": "₹145",
-        "price": "₹130"
+        "oldPrice": 14500,
+        "price": 13000
     },
     {
         "id": "8",
         "imageSrc": "https://i.imgur.com/ZNH3dNR.png",
         "name": "DXN Noni",
-        "oldPrice": "₹950",
-        "price": "₹870"
+        "oldPrice": 95000,
+        "price": 87000
     },
     {
         "id": "9",
         "imageSrc": "https://i.imgur.com/YfKNKCz.png",
         "name": "Nonizhi 600ml",
-        "oldPrice": "₹1835",
-        "price": "₹1600"
+        "oldPrice": 183500,
+        "price": 160000
     },
     {
         "id": "10",
         "imageSrc": "https://i.imgur.com/orjz6ns.png",
         "name": "Roselle",
-        "oldPrice": "₹585",
-        "price": "₹500"
+        "oldPrice": 58500,
+        "price": 50000
     },
     {
         "id": "11",
         "imageSrc": "https://i.imgur.com/UQO6NlV.png",
         "name": "Ganozhi Shampoo",
-        "oldPrice": "₹425",
-        "price": "₹370"
+        "oldPrice": 42500,
+        "price": 37000
     },
     {
         "id": "12",
         "imageSrc": "https://i.imgur.com/dgIFpYi.png",
         "name": "Lingzhi Spices Black Tea",
-        "oldPrice": "₹465",
-        "price": "₹410"
+        "oldPrice": 46500,
+        "price": 41000
     },
     {
         "id": "13",
         "imageSrc": "https://i.imgur.com/KIb9VFr.png",
         "name": "DXN Neeli Tailam",
-        "oldPrice": "₹475",
-        "price": "₹420"
+        "oldPrice": 47500,
+        "price": 42000
     },
     {
         "id": "14",
         "imageSrc": "https://i.imgur.com/AfcSpqq.png",
         "name": "DXN Gano Massage Oil",
-        "oldPrice": "₹485",
-        "price": "₹430"
+        "oldPrice": 48500,
+        "price": 43000
     },
     {
         "id": "15",
         "imageSrc": "https://i.imgur.com/WfRopCS.png",
         "name": "DXN Tea Tree Cream",
-        "oldPrice": "₹455",
-        "price": "₹430"
+        "oldPrice": 45500,
+        "price": 43000
     },
     {
         "id": "16",
         "imageSrc": "https://i.imgur.com/YiVZf0W.png",
         "name": "DXN Spirulina Capsule 120",
-        "oldPrice": "₹575",
-        "price": "₹500"
+        "oldPrice": 57500,
+        "price": 50000
     },
     {
         "id": "17",
         "imageSrc": "https://i.imgur.com/Ej2T5ca.png",
         "name": "DXN Spirulina Capsule 360",
-        "oldPrice": "₹1650",
-        "price": "₹1500"
+        "oldPrice": 165000,
+        "price": 150000
     },
     {
         "id": "18",
         "imageSrc": "https://i.imgur.com/4VrfjHR.png",
         "name": "DXN Spirulina Tablet 360",
-        "oldPrice": "₹1650",
-        "price": "₹1500"
+        "oldPrice": 165000,
+        "price": 150000
     },
     {
         "id": "19",
         "imageSrc": "https://i.imgur.com/llyz9mX.png",
         "name": "DXN Spirulina Powder",
-        "oldPrice": "₹770",
-        "price": "₹700"
+        "oldPrice": 77000,
+        "price": 70000
     },
     {
         "id": "20",
         "imageSrc": "https://i.imgur.com/wHj5q9y.png",
         "name": "DXN Reishi Gano Capsule 360",
-        "oldPrice": "₹6440",
-        "price": "₹6000"
+        "oldPrice": 644000,
+        "price": 600000
     },
     {
         "id": "21",
         "imageSrc": "https://i.imgur.com/q2iGwT4.png",
         "name": "DXN Ganocelium Capsule 360",
-        "oldPrice": "₹5035",
-        "price": "₹4500"
+        "oldPrice": 503500,
+        "price": 450000
     },
     {
         "id": "22",
         "imageSrc": "https://i.imgur.com/gT9CFC7.png",
         "name": "DXN Spirulina Cereal",
-        "oldPrice": "₹1020",
-        "price": "₹900"
+        "oldPrice": 102000,
+        "price": 90000
     },
     {
         "id": "23",
         "imageSrc": "https://i.imgur.com/c4HXkea.png",
         "name": "DXN Cordyceps Cereal",
-        "oldPrice": "₹1165",
-        "price": "₹980"
+        "oldPrice": 116500,
+        "price": 98000
     },
     {
         "id": "24",
         "imageSrc": "https://i.imgur.com/aog2Kz5.png",
         "name": "DXN White Coffee Zhino",
-        "oldPrice": "₹1110",
-        "price": "₹950"
+        "oldPrice": 111000,
+        "price": 95000
     },
     {
         "id": "25",
         "imageSrc": "https://i.imgur.com/9H9noMe.png",
         "name": "DXN Zhi-Mocha",
-        "oldPrice": "₹1035",
-        "price": "₹900"
+        "oldPrice": 103500,
+        "price": 90000
     },
     {
         "id": "26",
         "imageSrc": "https://i.imgur.com/2ejmJG4.png",
         "name": "DXN Cordyceps Coffee",
-        "oldPrice": "₹1075",
-        "price": "₹930"
+        "oldPrice": 107500,
+        "price": 93000
     },
     {
         "id": "27",
         "imageSrc": "https://i.imgur.com/sgIUouH.png",
         "name": "DXN Ganozhi Paste",
-        "oldPrice": "₹345",
-        "price": "₹300"
+        "oldPrice": 34500,
+        "price": 30000
     },
     {
         "id": "28",
         "imageSrc": "https://i.imgur.com/epmbudz.png",
         "name": "DXN Talcum Powder",
-        "oldPrice": "₹415",
-        "price": "₹380"
+        "oldPrice": 41500,
+        "price": 38000
     },
     {
         "id": "29",
         "imageSrc": "https://i.imgur.com/CsVJiJg.png",
         "name": "DXN Aloe V Cream",
-        "oldPrice": "₹430",
-        "price": "₹400"
+        "oldPrice": 43000,
+        "price": 40000
     },
     {
         "id": "30",
         "imageSrc": "https://i.imgur.com/UNQLuSP.png",
         "name": "DXN Masala Dip Tea",
-        "oldPrice": "₹245",
-        "price": "₹215"
+        "oldPrice": 24500,
+        "price": 21500
     },
     {
         "id": "31",
         "imageSrc": "https://i.imgur.com/1jZ9gOX.png",
         "name": "DXN Lemonzhi",
-        "oldPrice": "₹600",
-        "price": "₹510"
+        "oldPrice": 60000,
+        "price": 51000
     },
     {
         "id": "32",
         "imageSrc": "https://i.imgur.com/SquFJgU.png",
         "name": "DXN Chubby Baby Oil",
-        "oldPrice": "₹455",
-        "price": "₹400"
+        "oldPrice": 45500,
+        "price": 40000
     },
     {
         "id": "33",
         "imageSrc": "https://i.imgur.com/HZpPpIH.png",
         "name": "DXN Tea Latte",
-        "oldPrice": "₹1135",
-        "price": "₹1020"
+        "oldPrice": 113500,
+        "price": 102000
     }
 ]
