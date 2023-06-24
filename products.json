@@ -203,31 +203,31 @@
         "price": "₹400"
     },
     {
-      "id": 30,
-      "imageSrc": "https://i.imgur.com/UNQLuSP.png",
-      "name": "DXN Masala Dip Tea",
-      "oldPrice": "₹245",
-      "price": "₹215",
+        "id": 30,
+        "imageSrc": "https://i.imgur.com/UNQLuSP.png",
+        "name": "DXN Masala Dip Tea",
+        "oldPrice": "₹245",
+        "price": "₹215"
     },
     {
-      "id": 31,
-      "imageSrc": "https://i.imgur.com/1jZ9gOX.png",
-      "name": "DXN Lemonzhi",
-      "oldPrice": "₹600",
-      "price": "₹510",
+        "id": 31,
+        "imageSrc": "https://i.imgur.com/1jZ9gOX.png",
+        "name": "DXN Lemonzhi",
+        "oldPrice": "₹600",
+        "price": "₹510"
     },
     {
-      "id": 32,
-      "imageSrc": "https://i.imgur.com/SquFJgU.png",
-      "name": "DXN Chubby Baby Oil",
-      "oldPrice": "₹455",
-      "price": "₹400",
+        "id": 32,
+        "imageSrc": "https://i.imgur.com/SquFJgU.png",
+        "name": "DXN Chubby Baby Oil",
+        "oldPrice": "₹455",
+        "price": "₹400"
     },
     {
-      "id": 33,
-      "imageSrc": "https://i.imgur.com/HZpPpIH.png",
-      "name": "DXN Tea Latte",
-      "oldPrice": "₹1135",
-      "price": "₹1020",
+        "id": 33,
+        "imageSrc": "https://i.imgur.com/HZpPpIH.png",
+        "name": "DXN Tea Latte",
+        "oldPrice": "₹1135",
+        "price": "₹1020"
     },
 ]
